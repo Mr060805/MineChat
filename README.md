@@ -93,6 +93,6 @@ git clone --recursive https://github.com/Mr060805/MineChat.git
 
 ## 开源许可
 
-本项目**仅限非商业用途**，**禁止一切商业使用**，且**不提供任何商业授权**。详见仓库内 [`LICENSE`](./LICENSE)。
+本项目采用 [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html) 开源许可，与上游项目 [RikkaHub](https://github.com/rikkahub/rikkahub) 保持一致。
 
-> 本项目基于 [RikkaHub](https://github.com/rikkahub/rikkahub)（AGPL-3.0）二次开发，上游代码部分受 AGPL-3.0 约束，再分发须遵守其条款。
+> 本项目基于 [RikkaHub](https://github.com/rikkahub/rikkahub)（AGPL-3.0）二次开发。
