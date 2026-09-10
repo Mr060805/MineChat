@@ -1,75 +1,39 @@
 # LICENSE
 
-本项目采用 **用户分段双重许可 (Segmented Dual Licensing)** 模式：
+本项目基于 [RikkaHub](https://github.com/rikkahub/rikkahub)（AGPL-3.0）二次开发。
 
 ---
 
-## 1. 开源许可证（GNU AGPL v3）
+## 使用许可
 
-本项目在以下条件下，可以免费使用，并遵循 **GNU Affero General Public License v3.0 (AGPL v3)**：
-- 使用场景为 **非商业用途**；
-- 或者用于 **个人/教育/研究** 目的；
-- 或者由 **用户总数不超过 10 人** 的个人或组织使用。
-
-AGPL v3 的全文请见：https://www.gnu.org/licenses/agpl-3.0.html
-
-> 注意：即便在 AGPL v3 下，您仍然需要遵守协议条款，例如公开源代码等义务。
+- 本项目**仅限非商业用途**：个人学习、研究、交流等非商业场景。
+- **明确禁止一切商业用途**：不得以任何形式将本项目（源代码、编译产物或衍生版本）直接或间接用于商业目的，包括但不限于出售、订阅/付费服务、广告变现、商业部署、企业/组织内部盈利性使用等。
+- 本项目**不提供任何商业授权**，上述「禁止商用」条款不接受任何形式的豁免或付费解除。
 
 ---
 
-## 2. 商业许可证（Commercial License）
+## 关于上游许可（RikkaHub）
 
-如果您的使用场景不符合上述条件，例如：
-- 用于 **商业用途**（直接或间接产生商业利益的服务或产品）；
-- 或者 **用户总数超过 10 人**；
-- 或者您希望避免 AGPL v3 的源代码开源义务；
-
-那么您必须事先与项目维护者签署 **商业许可证 (Commercial License)**。
-
-申请商业授权请联系：
-- 邮箱：re_dev@qq.com
-
----
-
-## 3. 许可政策更新
-
-项目维护者保留更新许可政策的权利。更新将通过官方渠道（如代码仓库、官方网站）进行通知。
+- 本项目的部分代码源自 [RikkaHub](https://github.com/rikkahub/rikkahub)，该部分受 [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html) 约束。
+- 依据 AGPL-3.0 的要求，任何对本项目（或其衍生作品）的再分发，同样须遵守 AGPL-3.0 的条款（例如公开源代码等义务）。
 
 ---
 
 # LICENSE (English)
 
-This project adopts a **Segmented Dual Licensing** model:
+This project is a derivative of [RikkaHub](https://github.com/rikkahub/rikkahub) (AGPL-3.0).
 
 ---
 
-## 1. Open Source License (GNU AGPL v3)
+## Terms of Use
 
-You may use this project under the **GNU Affero General Public License v3.0 (AGPL v3)** if one of the following applies:
-- Your usage is strictly **non-commercial**;
-- Your usage is for **personal, educational, or research** purposes;
-- You are an individual or organization with **no more than 10 total users**.
-
-Full text of AGPL v3: https://www.gnu.org/licenses/agpl-3.0.html
-
-> Note: Even under AGPL v3, you must comply with its obligations, such as making your source code available.
+- This project is provided for **non-commercial use only**: personal learning, research, and other non-commercial scenarios.
+- **All commercial use is expressly prohibited.** You may not use this project (source code, pre-built binaries, or derivative works), directly or indirectly, for any commercial purpose, including but not limited to selling, paid/subscription services, advertising monetization, commercial deployment, or revenue-generating use within a company or organization.
+- **No commercial license is offered.** The above non-commercial restriction cannot be waived for any consideration.
 
 ---
 
-## 2. Commercial License
+## Upstream License (RikkaHub)
 
-If your use does not meet the above criteria, for example:
-- **Commercial purposes** (services or products that directly or indirectly generate revenue);
-- Organizations with **more than 10 users**;
-- Or if you wish to avoid the obligations of AGPL v3;
-
-Then you must obtain a **Commercial License** from the project maintainer.
-
-For commercial licensing, please contact:
-- Email: re_dev@qq.com
-
----
-
-## 3. License Policy Updates
-
-The project maintainer reserves the right to update this licensing policy. Updates will be announced through official project channels (such as the code repository or official website).
+- Portions of this project are derived from [RikkaHub](https://github.com/rikkahub/rikkahub) and are governed by the [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+- Per AGPL-3.0, any further distribution of this project (or its derivatives) must also comply with AGPL-3.0 (e.g., the obligation to make source code available).
