@@ -10,17 +10,8 @@
 - 最低 **Android 8.0（API 26）**，更低版本无法安装。
 - 包名 `com.mine.minechat`；本仓库仅分发安装包。
 
-## 下载
 
-| 构建时间 | 文件 | 大小 |
-| --- | --- | --- |
-| 2026-11-12 23:05 | [`minechat-release-20261112-23-05.apk`](./minechat-release-20261112-23-05.apk) | 11.1 MB |
 
-SHA-256：
-
-```
-023B0A6BC8E458EC175B6D60F7D2FCFF2EAE86B2EC80FB5E2889EC30DBBD36F6
-```
 
 ## 注明
 
